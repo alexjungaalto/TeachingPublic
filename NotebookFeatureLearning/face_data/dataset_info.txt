@@ -1,0 +1,10 @@
+Original Owner and Donor of the data set:
+
+Tom Mitchell
+School of Computer Science
+Carnegie Mellon University
+tom.mitchell '@' cmu.edu
+http://www.cs.cmu.edu/~tom/
+
+More information and the whole data set can be found at http://archive.ics.uci.edu/ml/datasets/CMU+Face+Images
+(Only the 12 images included in this zip file are needed for the home assignment.)
